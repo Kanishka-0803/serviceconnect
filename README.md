@@ -1,5 +1,5 @@
 # Project Title : ServiceConnect 🛠️
-An AI-enhanced, location-aware service discovery web platform built with Django and PostgreSQL[cite: 1, 2]. ServiceConnect connects local customers with service professionals without platform commission fees[cite: 1].
+An AI-enhanced, location-aware service discovery web platform built with Django and PostgreSQL. ServiceConnect connects local customers directly with service professionals without platform commission fees.
 
 ## Problem Solved 
 * **Zero Intermediary Fees:** Eliminates high platform commissions, lowering costs for customers and increasing worker pay.
